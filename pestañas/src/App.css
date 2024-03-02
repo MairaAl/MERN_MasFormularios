@@ -1,0 +1,19 @@
+.pestañas {
+  margin: 2px;
+  border: 1px solid;
+  padding: 5px;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+}
+.active {
+  display: block;
+  background-color: white;
+}
+
+.hidden {
+  display: none;
+}
+.content {
+  border: 1px solid;
+}
